@@ -1,5 +1,5 @@
 /*
- * File: terst-binary-search.js
+ * File: test-binary-search.js
  * Description: Unit tests for binary-search.js.
  * Author: Victor Salcedo
  * Date: January 1, 2026
